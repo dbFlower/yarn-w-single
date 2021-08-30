@@ -1,6 +1,6 @@
 {
   "name": "@c1aa57/pkg-single",
-  "version": "1.0.2-beta.0",
+  "version": "1.0.2-beta.2",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
