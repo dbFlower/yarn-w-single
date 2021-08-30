@@ -1,0 +1,26 @@
+{
+  "name": "@c1aa56/pkg-single",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@c1aa56/pkg-a": "^0.3.0",
+    "@c1aa56/pkg-b": "^0.3.0",
+    "@c1aa56/pkg-c": "^0.3.0",
+    "@c1aa56/pkg-d": "^0.3.0",
+    "@c1aa56/pkg-e": "^0.3.0",
+    "@c1aa56/pkg-f": "^0.3.0"
+  }
+}
